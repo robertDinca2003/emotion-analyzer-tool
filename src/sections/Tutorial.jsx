@@ -1,6 +1,4 @@
 import laptopImg from '../assets/laptopManWoman.png';
-import dislikeMan from '../assets/dislikeMan.png';
-import horayWoman from '../assets/horayWoman.png';
 
 import accOldInput from '../assets/tutorial/AccessOldInputs.png';
 import chartSent from '../assets/tutorial/ChartSentences.png';
