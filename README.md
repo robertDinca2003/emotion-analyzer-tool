@@ -34,8 +34,8 @@ Ensure you have the following installed on your system:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/robertDinca2003/emotional-analyzer.git
-cd emotional-analyzer
+git clone https://github.com/robertDinca2003/emotion-analyzer-tool.git
+cd emotion-analyzer-tool
 ```
 
 ### Install Dependencies
