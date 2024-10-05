@@ -178,5 +178,4 @@ Throughout the development of the Emotion Analyzer Tool, a few key areas could h
 3. **Lack of Concise Development Plan**:
    The absence of a clear, concise development plan caused friction later in the project. As new ideas and features emerged, they often conflicted with the existing code structure, especially in terms of scalability. This resulted in reworking various parts of the codebase, leading to unnecessary complexity and technical debt. Having a solid plan from the beginning, with clear objectives and a long-term view of feature expansion, would have saved time and effort.
 
-4. **Scalability Concerns**:
-   While the tool was designed to be scalable in terms of visualizing emotions, certain design choices, particularly those influenced by the front-end-only nature of the project, made it more difficult to scale the app for broader use cases, such as converting it into a SaaS platform without significant back-end integration. A full-stack approach would have allowed for more seamless scaling.
+## Thank you for reading to this point!
